@@ -1,6 +1,6 @@
 function [Xq, w, V, vol] = triangleQuadRule(k)
 % This code is written by Oeystein Klemetsdal:
-% Øystein Strengehagen Klemetsdal,
+% Oeystein Strengehagen Klemetsdal,
 % The virtual element method as a common framework for finite element
 % and finite difference methods - Numerical and theoretical analysis,
 % June 2016,

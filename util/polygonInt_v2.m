@@ -1,6 +1,6 @@
 function I = polygonInt_v2(G,cells,f,k)
 % This code is written by Oeystein Klemetsdal:
-% Øystein Strengehagen Klemetsdal,
+% Oeystein Strengehagen Klemetsdal,
 % The virtual element method as a common framework for finite element
 % and finite difference methods - Numerical and theoretical analysis,
 % June 2016,

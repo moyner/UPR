@@ -1,5 +1,5 @@
 function [x,f,gNorm] = lbfgs(x0, F, varargin)
-    % limitet-memory bfgs optimization function
+    % limited-memory bfgs optimization function
     %
     % Arguments:
     %   x0          initial guess
