@@ -261,7 +261,7 @@ end
 
 if faultRef && wellRef
   ds = min(wellGridSize,faultGridSize);
-  hres = @(x,varargin) min(hresf(p), hresw(p));
+  hres = @(p,varargin) min(hresf(p), hresw(p));
 elseif faultRef
   ds = faultGridSize;
   hres = @(p,varargin) hresf(p);
